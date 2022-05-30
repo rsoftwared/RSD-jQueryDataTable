@@ -1,0 +1,10 @@
+E:\RSD\Youtube\HRMS\HRMS\obj\Debug\HRMS.csprojResolveAssemblyReference.cache
+E:\RSD\Youtube\HRMS\HRMS\bin\HRMS.dll.config
+E:\RSD\Youtube\HRMS\HRMS\bin\HRMS.dll
+E:\RSD\Youtube\HRMS\HRMS\bin\HRMS.pdb
+E:\RSD\Youtube\HRMS\HRMS\bin\DAL.dll
+E:\RSD\Youtube\HRMS\HRMS\bin\Domain.dll
+E:\RSD\Youtube\HRMS\HRMS\bin\DAL.pdb
+E:\RSD\Youtube\HRMS\HRMS\bin\Domain.pdb
+E:\RSD\Youtube\HRMS\HRMS\obj\Debug\HRMS.dll
+E:\RSD\Youtube\HRMS\HRMS\obj\Debug\HRMS.pdb

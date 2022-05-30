@@ -1,0 +1,4 @@
+E:\RSD\Youtube\HRMS\Domain\bin\Debug\Domain.dll
+E:\RSD\Youtube\HRMS\Domain\bin\Debug\Domain.pdb
+E:\RSD\Youtube\HRMS\Domain\obj\Debug\Domain.dll
+E:\RSD\Youtube\HRMS\Domain\obj\Debug\Domain.pdb
